@@ -4,7 +4,7 @@ https://deployed-todoapp-f0s12.kinsta.app
 
 ## Description
 
-TodoApp is a task management application that allows users to register, add tasks, edit their progress, delete tasks, and sign out. It is built using JavaScript, PostgreSQL, and Node.js.
+This deployed todoapp is a task management application that allows users to register, add tasks, edit their progress, delete tasks, and sign out. It is built using JavaScript, PostgreSQL, and Node.js. Users can easily track and update progress on their current goals.
 
 ## Features
 List the key features of your TodoApp.
