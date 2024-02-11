@@ -9,20 +9,20 @@ TodoApp is a task management application that allows users to register, add task
 ## Features
 List the key features of your TodoApp.
 
-User registration
-Add tasks
-Edit task progress
-Delete tasks
-Sign out
+User registration  
+Add tasks  
+Edit task progress  
+Delete tasks  
+Sign out  
 
 ## Technologies Used
-JavaScript
-PostgreSQL
-Node.js
+JavaScript  
+PostgreSQL  
+Node.js  
 
 ## Installation
 ### Clone the Repository
-git clone https://github.com/msdevsec/deployed-todoapp.git  
+```git clone https://github.com/msdevsec/deployed-todoapp.git  ```
 
 npm install  
 cd server  
