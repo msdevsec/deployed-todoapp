@@ -5,8 +5,8 @@ https://deployed-todoapp-f0s12.kinsta.app
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://i.imgur.com/3geHWX8.png" alt="Screenshot 1" style="width: 48%;">
-  <img src="https://i.imgur.com/HR1qEIi.png" alt="Screenshot 2" style="width: 48%;">
+  <img src="https://i.imgur.com/3geHWX8.png" alt="Screenshot 1" style="width: 48%; height: auto;">
+  <img src="https://i.imgur.com/HR1qEIi.png" alt="Screenshot 2" style="width: 48%; height: auto;">
 </div>
 
 ## Description
