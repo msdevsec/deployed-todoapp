@@ -3,9 +3,11 @@ Deployed at:
 https://deployed-todoapp-f0s12.kinsta.app
 
 ## Screenshots
-![Screenshot 1]()![3geHWX8](https://github.com/msdevsec/deployed-todoapp/assets/63856206/a55dac3d-c780-4847-9e78-0f3a57c6f6d3)
-![Screenshot 2]()!(![3geHWX8](https://github.com/msdevsec/deployed-todoapp/assets/63856206/78977807-4933-4ebd-8d0a-b769fdded254)
-)
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://i.imgur.com/3geHWX8.png" alt="Screenshot 1" style="width: 48%;">
+  <img src="https://i.imgur.com/HR1qEIi.png" alt="Screenshot 2" style="width: 48%;">
+</div>
 
 ## Description
 
