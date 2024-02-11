@@ -22,21 +22,21 @@ Node.js
 
 ## Installation
 ### Clone the Repository
-git clone https://github.com/msdevsec/deployed-todoapp.git
+git clone https://github.com/msdevsec/deployed-todoapp.git  
 
-npm install
-cd server
-npm run start
-cd client (in second terminal)
-npm run client
-
-
-Client: http://localhost:3000
-Server: http://localhost:8000
+npm install  
+cd server  
+npm run start  
+cd client (in second terminal)  
+npm run client  
 
 
-##Contributing
-Fork the repository.
-Create a new branch.
-Make your changes and commit them.
-Push to your fork and submit a pull request.
+Client: http://localhost:3000  
+Server: http://localhost:8000  
+
+
+## Contributing
+Fork the repository.  
+Create a new branch.  
+Make your changes and commit them.  
+Push to your fork and submit a pull request.  
