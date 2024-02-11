@@ -234,3 +234,14 @@ input {
 .task-title {
   width: 300px;
 }
+
+@media only screen and (max-width: 600px) {
+  /* Styles for screens up to 600px wide (adjust as needed) */
+
+  .app {
+    width: 100%; /* Make it full width on small screens */
+    margin-top: 20px; /* Adjust margin for better spacing on small screens */
+  }
+
+  /* Add more responsive styles as needed for other elements */
+}
