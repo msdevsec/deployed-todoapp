@@ -37,7 +37,7 @@ const App = () => {
       {!authToken && <Auth/>}
       {authToken &&
         <>
-        <ListHeader listName={'🏝️ Holiday tick list'} getData={getData} />
+        <ListHeader listName={'🏝️ My current goals tick list'} getData={getData} />
         <p className="user-email">Welcome back {userEmail}</p>
         {sortedTasks?.map((task) => <ListItem key={task.id} task={task} getData={getData} />)}
         </>}
